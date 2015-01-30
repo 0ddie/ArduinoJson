@@ -1,7 +1,7 @@
 {
-"name": "spark-transport-display",
-"author": "Synox <synox on github>",
+"name": "ArduinoJson-Lib-for-spark",
+"author": "Orginal-lib-bblanchon(Git)-forked-by-OddieCAT-0ddie-on-git",
 "license": "CC0",
-"version": "0.0.2",
-"description": "A display for time, wheater and transport information"
+"version": "0.0.1",
+"description": "Arduino JSON library for spark"
 }
