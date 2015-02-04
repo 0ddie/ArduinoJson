@@ -4,7 +4,7 @@
 // Arduino JSON library
 // https://github.com/bblanchon/ArduinoJson
 
-#include "../include/ArduinoJson/JsonVariant.hpp"
+#include "../include/ArduinoJson/firmware/ArduinoJson-Lib-for-spark.hpp"
 
 #include "../include/ArduinoJson/JsonArray.hpp"
 #include "../include/ArduinoJson/JsonObject.hpp"
